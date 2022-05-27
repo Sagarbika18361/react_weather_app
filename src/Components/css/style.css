@@ -1,0 +1,44 @@
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Jost", sans-serif;
+    overflow: hidden;
+}
+html {
+    background: #eee;
+}
+.vh{
+    height: 100vh;
+}
+.vh-50{
+    height: 50vh;
+    border-radius: 18px;
+}
+/* .wave1 {
+    opacity: 0.3;
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    background: white;
+    width: 50rem;
+    height: 50rem;
+    margin-left: -25rem;
+    margin-top: -20rem;
+    transform-origin: 50% 48%;
+    border-radius: 43%;
+    animation: all 3000ms infinite linear;
+    z-index: 1;
+    }
+    .wave2 {
+    animation: all 5000ms infinite linear;
+    z-index: 2 !important;
+    opacity: 0.2;
+    }
+    .wave3 {
+    animation: all 7000ms infinite linear;
+    z-index: 3 !important;
+    opacity: 0.1;
+    } */ */
